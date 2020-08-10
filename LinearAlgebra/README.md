@@ -5,7 +5,8 @@
 > * TEAMLAB ML/DL Boostcourse
 > * python ,기초수학, 머신러닝, 데이터 엔지니어링
 --------------------------------------
-### Introduction to Linear Algebra , 선형대수학개론 강좌 (by '조범희',inflearn)
+#### Introduction to Linear Algebra 
+선형대수학개론 강좌 (by '조범희',inflearn)
 > 1. Linear Equations in Linear Algebra 
 > 2. Matrix Algebra
 > 3. Determinants
