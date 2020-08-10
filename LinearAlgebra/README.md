@@ -11,10 +11,10 @@
 
 선형대수학개론
 
-> 1. Linear Equations in Linear Algebra 
-> 2. Matrix Algebra
-> 3. Determinants
-> 4. Eigenvalues and Eigenvector
-> 5. Orthogonality and Least Squares
-> 6. Symmetric Matrices and Quadratic Forms
-> 7. Extra Algorithms 
+> [1. Linear Equations in Linear Algebra] 
+> [2. Matrix Algebra]
+> [3. Determinants]
+> [4. Eigenvalues and Eigenvector]
+> [5. Orthogonality and Least Squares]
+> [6. Symmetric Matrices and Quadratic Forms]
+> [7. Extra Algorithms] 
