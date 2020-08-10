@@ -5,7 +5,11 @@
 > * TEAMLAB ML/DL Boostcourse
 > * python ,기초수학, 머신러닝, 데이터 엔지니어링
 --------------------------------------
-### 기초수학
-* Linear Algebra
-### 머신러닝
-* 밑바닥부터 시작하는 데이터과학
+### Introduction to Linear Algebra , 선형대수학개론 강좌 (by '조범희',inflearn)
+> 1. Linear Equations in Linear Algebra 
+> 2. Matrix Algebra
+> 3. Determinants
+> 4. Eigenvalues and Eigenvector
+> 5. Orthogonality and Least Squares
+> 6. Symmetric Matrices and Quadratic Forms
+> 7. Extra Algorithms 
