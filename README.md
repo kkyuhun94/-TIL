@@ -6,6 +6,7 @@
 > * python ,기초수학, 머신러닝, 데이터 엔지니어링
 --------------------------------------
 ### 기초수학
-* Linear Algebra
+* [Linear Algebra](https://github.com/kkyuhun94/TIL/tree/master/LinearAlgebra)
+
 ### 머신러닝
-* 밑바닥부터 시작하는 데이터과학
+* [밑바닥부터 시작하는 데이터과학]()
