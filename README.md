@@ -7,6 +7,8 @@
 
 ### 📝기초수학
 * [선형대수학개론](https://github.com/kkyuhun94/TIL/tree/master/LinearAlgebra)
+* [파이썬을 활용한 선형대수학](https://github.com/kkyuhun94/TIL/tree/master/LinearAlgebra_withPython)
+
 
 ### 🤖머신러닝
 * [밑바닥부터 시작하는 데이터 과학<sup>2판</sup>](https://github.com/kkyuhun94/TIL/tree/master/DataScience_from_Scratch)
