@@ -9,11 +9,11 @@
 >2.기초 수업
 
 * [2.1 행렬 및 벡터 표현법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.1_chapter.ipynb)
-* [2.2 간단한 행렬 입출력 방법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [2.3 행렬 관련 편리한 기능](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [2.4 행렬 기본 조작 1](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [2.5 행렬 기본 조작 2](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [2.6 행렬 기본 조작 3](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
+* [2.2 간단한 행렬 입출력 방법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.2_chapter.ipynb)
+* [2.3 행렬 관련 편리한 기능](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.3_chapter.ipynb)
+* [2.4 행렬 기본 조작 1](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.4_chapter.ipynb)
+* [2.5 행렬 기본 조작 2](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.5_chapter.ipynb)
+* [2.6 행렬 기본 조작 3](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.6_chapter.ipynb)
 
 >3.행렬 방정식의 해
     
