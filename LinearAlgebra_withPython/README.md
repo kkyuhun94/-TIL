@@ -8,7 +8,7 @@
 
 >2.기초 수업
 
-* [2.1 행렬 및 벡터 표현법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
+* [2.1 행렬 및 벡터 표현법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/2.1_chapter.ipynb)
 * [2.2 간단한 행렬 입출력 방법](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
 * [2.3 행렬 관련 편리한 기능](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
 * [2.4 행렬 기본 조작 1](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
