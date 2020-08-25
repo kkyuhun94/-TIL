@@ -17,19 +17,19 @@
 
 >3.행렬 방정식의 해
     
-* [3.1 행렬의 분류](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [3.2 왜 역행렬을 구하는 것보다 $Ax=b$를 푸는게 좋을까?](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [3.3 일반 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [3.4 밴드 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [3.5 특수 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [3.6 동시에 여러식 풀기](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)          
+* [3.1 행렬의 분류](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.1_chapter.ipynb)
+* [3.2 왜 역행렬을 구하는 것보다 $Ax=b$를 푸는게 좋을까?](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.2_chapter.ipynb)
+* [3.3 일반 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.3_chapter.ipynb)
+* [3.4 밴드 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.4_chapter.ipynb)
+* [3.5 특수 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.5_chapter.ipynb)
+* [3.6 동시에 여러식 풀기](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/3.6_chapter.ipynb)          
 
 >4.고유치와 고유벡터
     
-* [4.1 고유치 계산 알고리즘 개론](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [4.2 일반 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [4.3 밴드 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
-* [4.4 Power Method 개론](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)        
+* [4.1 고유치 계산 알고리즘 개론](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/4.1_chapter.ipynb)
+* [4.2 일반 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/4.2_chapter.ipynb)
+* [4.3 밴드 행렬](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/4.3_chapter.ipynb)
+* [4.4 Power Method 개론](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/4.4_chapter.ipynb)        
 
 >5.행렬 분해와 행렬 분해를 활용한 행렬 방정식의 해
     
