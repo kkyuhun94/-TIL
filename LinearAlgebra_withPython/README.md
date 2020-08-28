@@ -49,4 +49,15 @@
 * [7.2 SVD를 사용하여 흑백 이미지 압축](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
 * [7.3 2D 선형변환 시각화](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)
      
-  
+---------------------------------
+
+## 🤯학습을 마치고 느낀점
+
+* 이 학습 내용은 인프런의 강사인 타블렛 깎는 노인(조범희)님의 [파이썬을 활용한 선형대수학 - NumPy와 SciPy의 활용](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99/dashboard)강의를 들으면서 스스로 이해한 내용을 요약 정리한 것이다. 선형대수를 이용한 여러 계산을 numpy 와 scipy의 linalg로 구현하는 법을 배운다.
+* 이 전에 타깎노님의 [선형대수학개론](https://www.inflearn.com/course/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%ED%95%99%EA%B0%9C%EB%A1%A0/dashboard)을 들으면서 최대한 자세하게 설명해주셨지만 이것을 실제로 어떻게 사용할지는 전혀 감이 잡히지 않았다.
+하지만 이강의를 통해서 그때 배운 이론들을 다시 복습하고, code로는 어떤식으로 사용해야하는지 대략적으로 학습할 수 있었다. 
+* 특히 [7.2 SVD를 사용하여 흑백 이미지 압축](https://github.com/kkyuhun94/TIL/blob/master/LinearAlgebra_withPython/chapter2.ipynb)에서는 이미지 행렬을 압축하는 사례를 실습하는데 너무 재미있었다. 머신러닝과 딥러닝을 조금만 더 자세하게 배우면 활용할 수 있는 곳이 정말 많을 것 같다는 생각을 했다.
+* 이 강의는 Scipy 1.2.1일때의 버전이라서 지금 1.5 ?정도 까지 나온걸로 알고있는데 강의에서 불가능하다는 것들도 가능할지 모르겠다.
+* 수식을 정리하는게 너무 어려웠는데 덕분에 jupyter에서 LaTex를 활용하는 법에 익숙해졌다. 어서 교수님이 내주신 matrix factorization 과제를 하러 가봐야겠다..ㅠ
+
+
