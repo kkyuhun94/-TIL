@@ -12,5 +12,5 @@
 
 ### 🤖머신러닝/딥러닝
 * [밑바닥부터 시작하는 데이터 과학<sup>2판</sup>](https://github.com/kkyuhun94/TIL/tree/master/DataScience_from_Scratch)
-* [밑바닥부터 시작하는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/Deeplearning_from_Scratch)
+* [밑바닥부터 시작하는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/DeepLearning_from_Scratch)
 ### 데이터 엔지니어링
