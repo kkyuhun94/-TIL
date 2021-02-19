@@ -14,10 +14,12 @@
 * [밑바닥부터 시작하는 데이터 과학<sup>2판</sup>](https://github.com/kkyuhun94/TIL/tree/master/DataScience_from_Scratch)
 * [밑바닥부터 시작하는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/DeepLearning_from_Scratch)
 * [케라스 창시자에게 배우는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/DeepLearning_Keras)
+* [모두의 딥러닝 2 with pytorch]
 
 ### 논문구현하기
-* [BPMLL]
+* [BP-MLL]
 * [Layer Normalization]
 * [CNN]
   * [vgg]
   * [resnet] 
+  * [bag of tricks]
