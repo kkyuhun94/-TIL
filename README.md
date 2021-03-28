@@ -23,3 +23,8 @@
   * [vgg]
   * [resnet] 
   * [bag of tricks]
+* [NLP]
+  * [Sequence to Sequence]
+  * [Attention mechanism]
+  * [Attention is all you need]
+  * [elmo]
