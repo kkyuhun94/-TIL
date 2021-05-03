@@ -15,13 +15,13 @@
 * [밑바닥부터 시작하는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/DeepLearning_from_Scratch)
 * [케라스 창시자에게 배우는 딥러닝](https://github.com/kkyuhun94/TIL/tree/master/DeepLearning_Keras)
 * [모두의 딥러닝 2 with pytorch]
-
+* [GAN 첫걸음](https://github.com/kkyuhun94/TIL/tree/master/GAN)
 ### 논문구현하기
 * [BP-MLL]
 * [Layer Normalization]
 * [CNN]
   * [vgg]
-  * [resnet] 
+  * [resnet]
   * [bag of tricks]
 * [NLP]
   * [Sequence to Sequence]
